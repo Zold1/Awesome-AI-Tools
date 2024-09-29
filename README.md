@@ -214,7 +214,7 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Description**: AI-powered gift suggestion tool that helps users find the perfect gift based on recipient preferences.
    - **Pricing**: Free
    - **Trial Period**: Not applicable.
-   - **Link**: [Visit Gift Genie AI](https://giftgenieai.com)
+   - **Link**: [Visit Gift Genie AI](https://www.giftgenie.ai)
 
 8. **Tutor AI**  
    - **Description**: An educational platform using AI to provide personalized tutoring and learning experiences.
