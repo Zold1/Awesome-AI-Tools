@@ -31,6 +31,24 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free version available with limited features.
    - **Link**: [Visit Krea.ai](https://www.krea.ai)
 
+4. **Leonardo.ai**  
+   - **Description**: A creative tool for generating high-quality images, game assets, and concepts.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free credits available.
+   - **Link**: [Visit Leonardo.ai](https://leonardo.ai)
+
+5. **Clipdrop**  
+   - **Description**: An AI-powered tool for image enhancement, background removal, and visual content creation.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free basic features available.
+   - **Link**: [Visit Clipdrop](https://clipdrop.co)
+
+6. **PicWish**  
+   - **Description**: An AI-based tool for background removal, image enhancement, and photo editing.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free trial with limited features.
+   - **Link**: [Visit PicWish](https://picwish.com)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
@@ -95,6 +113,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid (with limited free options).
    - **Trial Period**: Free credits available.
    - **Link**: [Visit Runway](https://runwayml.com)
+
+2. **ZMO.ai**  
+   - **Description**: An AI platform for creating digital content, including virtual models and video editing.
+   - **Pricing**: Paid (with some free features).
+   - **Trial Period**: Free credits available.
+   - **Link**: [Visit ZMO.ai](https://www.zmo.ai)
 
 ---
 
