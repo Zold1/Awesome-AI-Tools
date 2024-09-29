@@ -23,20 +23,32 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Description**: AI-powered tool for generating high-quality images and artwork.
    - **Pricing**: Paid (with limited free trial via Discord).
    - **Trial Period**: Free trial with limited prompts.
-   - **Link**: [Visit Midjourney](https://www.midjourney.com/)
+   - **Link**: [Visit Midjourney](https://www.midjourney.com)
 
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
    - **Pricing**: Freemium
    - **Trial Period**: Free basic usage.
-   - **Link**: [Visit ChatGPT](https://chat.openai.com/)
+   - **Link**: [Visit ChatGPT](https://chat.openai.com)
 
 2. **Jasper**  
    - **Description**: AI copywriting tool for generating marketing and ad content.
    - **Pricing**: Paid (with trial).
    - **Trial Period**: 5-day free trial.
-   - **Link**: [Visit Jasper](https://www.jasper.ai/)
+   - **Link**: [Visit Jasper](https://www.jasper.ai)
+
+3. **Claude**  
+   - **Description**: An AI assistant by Anthropic designed to provide creative, engaging, and informative responses.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free usage available for basic services.
+   - **Link**: [Visit Claude](https://claude.ai)
+
+4. **Gemini**  
+   - **Description**: Google's AI language model built to understand and generate human-like responses.
+   - **Pricing**: Freemium.
+   - **Trial Period**: Free usage available for basic services.
+   - **Link**: [Visit Gemini](https://gemini.google.com)
 
 ### Chatbots
 1. **Dialogflow**  
@@ -64,7 +76,7 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Description**: A creative suite for generating video, editing, and image manipulation using AI.
    - **Pricing**: Paid (with limited free options).
    - **Trial Period**: Free credits available.
-   - **Link**: [Visit Runway](https://runwayml.com/)
+   - **Link**: [Visit Runway](https://runwayml.com)
 
 ---
 
@@ -78,4 +90,4 @@ If you know of an AI tool that isn't listed here, feel free to submit a pull req
 ---
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](./LICENSE).
