@@ -19,43 +19,37 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free limited credits on signup.
    - **Link**: [Visit DALL-E 3](https://openai.com/dall-e)
 
-2. **Midjourney**  
-   - **Description**: AI-powered tool for generating high-quality images and artwork.
-   - **Pricing**: Paid (with limited free trial via Discord).
-   - **Trial Period**: Free trial with limited prompts.
-   - **Link**: [Visit Midjourney](https://www.midjourney.com)
-
-3. **Krea.ai**  
+2. **Krea.ai**  
    - **Description**: A platform for generating AI-driven art, focusing on creative and experimental visuals.
    - **Pricing**: Freemium
    - **Trial Period**: Free version available with limited features.
    - **Link**: [Visit Krea.ai](https://www.krea.ai)
 
-4. **Leonardo.ai**  
+3. **Leonardo.ai**  
    - **Description**: A creative tool for generating high-quality images, game assets, and concepts.
    - **Pricing**: Freemium
    - **Trial Period**: Free credits available.
    - **Link**: [Visit Leonardo.ai](https://leonardo.ai)
 
-5. **Clipdrop**  
+4. **Clipdrop**  
    - **Description**: An AI-powered tool for image enhancement, background removal, and visual content creation.
    - **Pricing**: Freemium
    - **Trial Period**: Free basic features available.
    - **Link**: [Visit Clipdrop](https://clipdrop.co)
 
-6. **PicWish**  
+5. **PicWish**  
    - **Description**: An AI-based tool for background removal, image enhancement, and photo editing.
    - **Pricing**: Freemium
    - **Trial Period**: Free trial with limited features.
    - **Link**: [Visit PicWish](https://picwish.com)
 
-7. **Khroma**  
+6. **Khroma**  
    - **Description**: An AI tool designed for generating color palettes, helping artists and designers find the perfect colors.
    - **Pricing**: Free
    - **Trial Period**: Not applicable.
    - **Link**: [Visit Khroma](https://www.khroma.co)
 
-8. **Aitwo**  
+7. **Aitwo**  
    - **Description**: An AI-powered platform for quickly generating product images, ideal for e-commerce and marketing.
    - **Pricing**: Freemium
    - **Trial Period**: Free trial available with limited features.
