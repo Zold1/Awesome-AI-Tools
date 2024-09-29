@@ -49,6 +49,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial with limited features.
    - **Link**: [Visit PicWish](https://picwish.com)
 
+7. **Khroma**  
+   - **Description**: An AI tool designed for generating color palettes, helping artists and designers find the perfect colors.
+   - **Pricing**: Free
+   - **Trial Period**: Not applicable.
+   - **Link**: [Visit Khroma](https://www.khroma.co)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
@@ -73,6 +79,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Freemium.
    - **Trial Period**: Free usage available for basic services.
    - **Link**: [Visit Gemini](https://gemini.google.com)
+
+5. **Scripai**  
+   - **Description**: AI for script writing and content creation, aimed at writers and filmmakers.
+   - **Pricing**: Paid (with trial).
+   - **Trial Period**: Available.
+   - **Link**: [Visit Scripai](https://scripai.com)
 
 ### Chatbots
 1. **Dialogflow**  
@@ -119,6 +131,48 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid (with some free features).
    - **Trial Period**: Free credits available.
    - **Link**: [Visit ZMO.ai](https://www.zmo.ai)
+
+3. **Mixo**  
+   - **Description**: AI-based website builder that allows users to quickly generate landing pages.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free trial available.
+   - **Link**: [Visit Mixo](https://www.mixo.io)
+
+4. **CrawlQ.ai**  
+   - **Description**: AI-powered content marketing and research platform, ideal for marketers and businesses.
+   - **Pricing**: Paid
+   - **Trial Period**: Available.
+   - **Link**: [Visit CrawlQ.ai](https://crawlq.ai)
+
+5. **Wiseone**  
+   - **Description**: A browser extension that uses AI to help users understand complex topics while browsing the web.
+   - **Pricing**: Free
+   - **Trial Period**: Not applicable.
+   - **Link**: [Visit Wiseone](https://wiseone.io)
+
+6. **Formulabot**  
+   - **Description**: AI tool for quickly generating spreadsheet formulas, designed to simplify data handling in Excel or Google Sheets.
+   - **Pricing**: Freemium
+   - **Trial Period**: Limited free usage.
+   - **Link**: [Visit Formulabot](https://formulabot.com)
+
+7. **Gift Genie AI**  
+   - **Description**: AI-powered gift suggestion tool that helps users find the perfect gift based on recipient preferences.
+   - **Pricing**: Free
+   - **Trial Period**: Not applicable.
+   - **Link**: [Visit Gift Genie AI](https://giftgenieai.com)
+
+8. **Tutor AI**  
+   - **Description**: An educational platform using AI to provide personalized tutoring and learning experiences.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free tier available.
+   - **Link**: [Visit Tutor AI](https://tutorai.me)
+
+9. **tl;dv.io**  
+   - **Description**: AI tool for recording, transcribing, and summarizing video meetings, ideal for teams.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free basic version available.
+   - **Link**: [Visit tl;dv.io](https://www.tldv.io)
 
 ---
 
