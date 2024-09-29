@@ -55,6 +55,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Not applicable.
    - **Link**: [Visit Khroma](https://www.khroma.co)
 
+8. **Aitwo**  
+   - **Description**: An AI-powered platform for quickly generating product images, ideal for e-commerce and marketing.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free trial available with limited features.
+   - **Link**: [Visit Aitwo](https://aitwo.co)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
@@ -105,6 +111,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid
    - **Trial Period**: 60-day free trial.
    - **Link**: [Visit GitHub Copilot](https://github.com/features/copilot)
+
+2. **CodeGPT**  
+   - **Description**: An AI tool for generating code snippets, helping developers find quick solutions and explanations.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free tier available.
+   - **Link**: [Visit CodeGPT](https://codegpt.co)
 
 ### Speech Recognition
 1. **Whisper API**  
@@ -173,6 +185,18 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Freemium
    - **Trial Period**: Free basic version available.
    - **Link**: [Visit tl;dv.io](https://www.tldv.io)
+
+10. **Wonderplan**  
+    - **Description**: AI-based tool to assist with project planning, providing insights and suggestions.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Wonderplan](https://wonderplan.io)
+
+11. **Uizard**  
+    - **Description**: AI-powered design tool for creating app wireframes and mockups.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free version available with limited features.
+    - **Link**: [Visit Uizard](https://uizard.io)
 
 ---
 
