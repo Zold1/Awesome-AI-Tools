@@ -55,6 +55,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial available with limited features.
    - **Link**: [Visit Aitwo](https://aitwo.co)
 
+9. **DeepAI**  
+   - **Description**: An AI platform offering various tools for generating images and other creative tasks.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free credits available.
+   - **Link**: [Visit DeepAI](https://deepai.org)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
@@ -99,6 +105,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free tier available with basic features.
    - **Link**: [Visit Character.ai](https://beta.character.ai)
 
+3. **Forefront**  
+   - **Description**: A conversational AI chatbot platform designed for customer support and interactive experiences.
+   - **Pricing**: Paid
+   - **Trial Period**: Available.
+   - **Link**: [Visit Forefront](https://www.forefront.ai)
+
 ### Code Assistance
 1. **GitHub Copilot**  
    - **Description**: An AI pair programmer that helps you write code faster.
@@ -111,6 +123,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Freemium
    - **Trial Period**: Free tier available.
    - **Link**: [Visit CodeGPT](https://codegpt.co)
+
+3. **Tabnine AI**  
+   - **Description**: An AI-powered code completion assistant that enhances productivity and helps developers write code quickly.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free trial available with limited features.
+   - **Link**: [Visit Tabnine](https://www.tabnine.com)
 
 ### Speech Recognition
 1. **Whisper API**  
@@ -191,6 +209,18 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Pricing**: Freemium
     - **Trial Period**: Free version available with limited features.
     - **Link**: [Visit Uizard](https://uizard.io)
+
+12. **Galileo AI**  
+    - **Description**: AI-powered design tool to create app interfaces and prototypes from text prompts.
+    - **Pricing**: Paid
+    - **Trial Period**: Not available.
+    - **Link**: [Visit Galileo AI](https://galileo.ai)
+
+13. **Finchat AI**  
+    - **Description**: AI chatbot designed to provide insights and answer questions regarding financial topics.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available with limited features.
+    - **Link**: [Visit Finchat AI](https://finchat.io)
 
 ---
 
