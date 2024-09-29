@@ -25,6 +25,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial with limited prompts.
    - **Link**: [Visit Midjourney](https://www.midjourney.com)
 
+3. **Krea.ai**  
+   - **Description**: A platform for generating AI-driven art, focusing on creative and experimental visuals.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free version available with limited features.
+   - **Link**: [Visit Krea.ai](https://www.krea.ai)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
@@ -70,6 +76,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid (usage-based)
    - **Trial Period**: Not available.
    - **Link**: [Visit Whisper](https://openai.com/research/whisper)
+
+2. **Suno**  
+   - **Description**: AI-powered tool for real-time speech synthesis, ideal for voice modulation and AI-generated audio.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free tier available.
+   - **Link**: [Visit Suno](https://www.suno.ai)
 
 ### Other AI Tools
 1. **Runway**  
