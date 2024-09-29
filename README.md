@@ -63,6 +63,12 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free tier available.
    - **Link**: [Visit Dialogflow](https://cloud.google.com/dialogflow)
 
+2. **Character.ai**  
+   - **Description**: A chatbot platform that allows users to create and interact with custom AI characters.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free tier available with basic features.
+   - **Link**: [Visit Character.ai](https://beta.character.ai)
+
 ### Code Assistance
 1. **GitHub Copilot**  
    - **Description**: An AI pair programmer that helps you write code faster.
