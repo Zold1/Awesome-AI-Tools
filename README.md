@@ -232,7 +232,7 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Description**: AI-based tool to assist with project planning, providing insights and suggestions.
     - **Pricing**: Freemium
     - **Trial Period**: Free tier available.
-    - **Link**: [Visit Wonderplan](https://wonderplan.io)
+    - **Link**: [Visit Wonderplan](https://wonderplan.ai)
 
 11. **Uizard**  
     - **Description**: AI-powered design tool for creating app wireframes and mockups.
