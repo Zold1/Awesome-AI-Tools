@@ -171,7 +171,7 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Description**: AI-powered tool for real-time speech synthesis, ideal for voice modulation and AI-generated audio.
    - **Pricing**: Freemium
    - **Trial Period**: Free tier available.
-   - **Link**: [Visit Suno](https://www.suno.ai)
+   - **Link**: [Visit Suno](https://www.suno.com)
 
 ### Other AI Tools
 1. **Runway**  
