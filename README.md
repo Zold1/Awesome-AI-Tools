@@ -244,7 +244,7 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Description**: AI-powered design tool to create app interfaces and prototypes from text prompts.
     - **Pricing**: Paid
     - **Trial Period**: Not available.
-    - **Link**: [Visit Galileo AI](https://galileo.ai)
+    - **Link**: [Visit Galileo AI](https://www.usegalileo.ai)
 
 13. **Finchat AI**  
     - **Description**: AI chatbot designed to provide insights and answer questions regarding financial topics.
