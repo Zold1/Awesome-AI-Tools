@@ -61,6 +61,36 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free credits available.
    - **Link**: [Visit DeepAI](https://deepai.org)
 
+10. **Eluna.ai**  
+    - **Description**: A creative AI platform for generating images from text, ideal for artists and marketers.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free credits available.
+    - **Link**: [Visit Eluna.ai](https://eluna.ai)
+
+11. **Openart AI**  
+    - **Description**: An AI platform for generating digital art using creative prompts.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Openart AI](https://openart.ai)
+
+12. **Microsoft Designer**  
+    - **Description**: An AI-powered design tool by Microsoft, offering templates and visual content creation.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free version available.
+    - **Link**: [Visit Microsoft Designer](https://designer.microsoft.com)
+
+13. **Imgupscaler**  
+    - **Description**: An AI tool for enhancing and upscaling images without losing quality.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free trial available.
+    - **Link**: [Visit Imgupscaler](https://imgupscaler.com)
+
+14. **Vectorizer AI**  
+    - **Description**: An AI tool for converting raster images to vector graphics, ideal for designers.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free trial available.
+    - **Link**: [Visit Vectorizer AI](https://vectorizer.ai)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
