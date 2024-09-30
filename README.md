@@ -164,7 +164,7 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Description**: AI writing assistant for creating high-quality content quickly.
    - **Pricing**: Freemium
    - **Trial Period**: Free plan available.
-   - **Link**: [Visit HyperWrite](https://www.hyperwrite.com)
+   - **Link**: [Visit HyperWrite](https://www.hyperwriteai.com)
 
 7. **Rytr**  
    - **Description**: AI writing assistant for creating content across various formats and styles.
@@ -206,13 +206,13 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Description**: AI tool for assisting authors in generating book content and outlines.
     - **Pricing**: Paid (with trial)
     - **Trial Period**: Free trial available.
-    - **Link**: [Visit AI Book Generator](https://www.aibookgenerator.com)
+    - **Link**: [Visit AI Book Generator](https://www.aibookgenerator.net)
 
 14. **Lisan AI**  
     - **Description**: Arabic language AI model for text generation and analysis.
     - **Pricing**: Freemium
     - **Trial Period**: Free tier available.
-    - **Link**: [Visit Lisan AI](https://www.lisanai.com)
+    - **Link**: [Visit Lisan AI](https://lisan.ai)
 
 ### Chatbots
 1. **Dialogflow**  
@@ -307,7 +307,7 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Description**: AI tool for generating blog posts and social media content.
    - **Pricing**: Freemium
    - **Trial Period**: Limited free usage.
-   - **Link**: [Visit BlogTweet](https://blogtweet.ai)
+   - **Link**: [Visit BlogTweet](https://blogtweet.xyz)
 
 5. **Compose AI**  
    - **Description**: AI writing assistant that helps users write emails and documents faster.
@@ -400,7 +400,7 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free tier available with limited features.
     - **Link**: [Visit Finchat AI](https://finchat.io)
 
-14. **Araby.ai**  
+14. **Araby AI**  
     - **Description**: AI-powered platform for Arabic language processing and content generation.
     - **Pricing**: Freemium
     - **Trial Period**: Free tier available.
