@@ -8,6 +8,8 @@ This repository provides a curated list of AI tools, with details on their uses,
 - [Chatbots](#chatbots)
 - [Code Assistance](#code-assistance)
 - [Speech Recognition](#speech-recognition)
+- [Design and Branding](#design-and-branding)
+- [Productivity and Writing](#productivity-and-writing)
 - [Other AI Tools](#other-ai-tools)
 
 ---
@@ -55,41 +57,77 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Trial Period**: Free trial available with limited features.
    - **Link**: [Visit Aitwo](https://aitwo.co)
 
-9. **DeepAI**  
+8. **DeepAI**  
    - **Description**: An AI platform offering various tools for generating images and other creative tasks.
    - **Pricing**: Freemium
    - **Trial Period**: Free credits available.
    - **Link**: [Visit DeepAI](https://deepai.org)
 
-10. **Eluna.ai**  
-    - **Description**: A creative AI platform for generating images from text, ideal for artists and marketers.
-    - **Pricing**: Freemium
-    - **Trial Period**: Free credits available.
-    - **Link**: [Visit Eluna.ai](https://eluna.ai)
+9. **Eluna.ai**  
+   - **Description**: A creative AI platform for generating images from text, ideal for artists and marketers.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free credits available.
+   - **Link**: [Visit Eluna.ai](https://eluna.ai)
 
-11. **Openart AI**  
+10. **Openart AI**  
     - **Description**: An AI platform for generating digital art using creative prompts.
     - **Pricing**: Freemium
     - **Trial Period**: Free tier available.
     - **Link**: [Visit Openart AI](https://openart.ai)
 
-12. **Microsoft Designer**  
+11. **Microsoft Designer**  
     - **Description**: An AI-powered design tool by Microsoft, offering templates and visual content creation.
     - **Pricing**: Freemium
     - **Trial Period**: Free version available.
     - **Link**: [Visit Microsoft Designer](https://designer.microsoft.com)
 
-13. **Imgupscaler**  
+12. **Imgupscaler**  
     - **Description**: An AI tool for enhancing and upscaling images without losing quality.
     - **Pricing**: Freemium
     - **Trial Period**: Free trial available.
     - **Link**: [Visit Imgupscaler](https://imgupscaler.com)
 
-14. **Vectorizer AI**  
+13. **Vectorizer AI**  
     - **Description**: An AI tool for converting raster images to vector graphics, ideal for designers.
     - **Pricing**: Freemium
     - **Trial Period**: Free trial available.
     - **Link**: [Visit Vectorizer AI](https://vectorizer.ai)
+
+14. **Avaturn**  
+    - **Description**: AI-powered tool for creating 3D avatars from photos.
+    - **Pricing**: Freemium
+    - **Trial Period**: Limited free usage.
+    - **Link**: [Visit Avaturn](https://avaturn.me)
+
+15. **Thumbnail AI**  
+    - **Description**: AI tool for generating eye-catching thumbnails for videos and content.
+    - **Pricing**: Paid (with trial)
+    - **Trial Period**: Available
+    - **Link**: [Visit Thumbnail AI](https://thumbnail.ai)
+
+16. **Pebblely**  
+    - **Description**: AI-powered product photography tool for creating stunning product images.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Pebblely](https://pebblely.com)
+
+17. **Flair AI**  
+    - **Description**: AI tool for creating product lifestyle images and marketing visuals.
+    - **Pricing**: Paid (with trial)
+    - **Trial Period**: Free trial available.
+    - **Link**: [Visit Flair AI](https://flair.ai)
+
+18. **AutoDraw**  
+    - **Description**: AI-assisted drawing tool that turns your rough sketches into polished drawings.
+    - **Pricing**: Free
+    - **Trial Period**: Not applicable.
+    - **Link**: [Visit AutoDraw](https://www.autodraw.com)
+
+19. **RestorePhotos.io**  
+    - **Description**: AI-powered tool for restoring and enhancing old or damaged photos.
+    - **Pricing**: Free
+    - **Trial Period**: Not applicable.
+    - **Link**: [Visit RestorePhotos.io](https://www.restorephotos.io)
 
 ### Text Generation
 1. **ChatGPT**  
@@ -121,6 +159,60 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid (with trial).
    - **Trial Period**: Available.
    - **Link**: [Visit Scripai](https://scripai.com)
+
+6. **HyperWrite**  
+   - **Description**: AI writing assistant for creating high-quality content quickly.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free plan available.
+   - **Link**: [Visit HyperWrite](https://www.hyperwrite.com)
+
+7. **Rytr**  
+   - **Description**: AI writing assistant for creating content across various formats and styles.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free plan with limited usage.
+   - **Link**: [Visit Rytr](https://rytr.me)
+
+8. **Copy AI**  
+   - **Description**: AI-powered copywriting tool for marketing content and product descriptions.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free plan available.
+   - **Link**: [Visit Copy AI](https://www.copy.ai)
+
+9. **Smodin**  
+   - **Description**: AI writing assistant for content creation, paraphrasing, and grammar checking.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free basic features.
+   - **Link**: [Visit Smodin](https://smodin.io)
+
+10. **Qalam AI**  
+    - **Description**: AI-powered writing assistant specifically designed for Arabic content creation.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Qalam AI](https://www.qalam.ai)
+
+11. **Katteb**  
+    - **Description**: Arabic AI writing assistant for content creation and optimization.
+    - **Pricing**: Paid (with trial)
+    - **Trial Period**: Free trial available.
+    - **Link**: [Visit Katteb](https://katteb.com)
+
+12. **Yameen AI**  
+    - **Description**: AI-powered writing assistant for Arabic content, including articles and social media posts.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Yameen AI](https://yameen.ai)
+
+13. **AI Book Generator**  
+    - **Description**: AI tool for assisting authors in generating book content and outlines.
+    - **Pricing**: Paid (with trial)
+    - **Trial Period**: Free trial available.
+    - **Link**: [Visit AI Book Generator](https://www.aibookgenerator.com)
+
+14. **Lisan AI**  
+    - **Description**: Arabic language AI model for text generation and analysis.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Lisan AI](https://www.lisanai.com)
 
 ### Chatbots
 1. **Dialogflow**  
@@ -172,6 +264,62 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Freemium
    - **Trial Period**: Free tier available.
    - **Link**: [Visit Suno](https://www.suno.com)
+
+### Design and Branding
+1. **Looka**  
+   - **Description**: AI-powered logo maker and brand identity platform.
+   - **Pricing**: Paid (with limited free features)
+   - **Trial Period**: Free logo generation, paid for high-resolution files.
+   - **Link**: [Visit Looka](https://looka.com)
+
+2. **Brandmark**  
+   - **Description**: AI logo design and brand identity generator.
+   - **Pricing**: Paid (with some free features)
+   - **Trial Period**: Free logo generation, paid for high-resolution files.
+   - **Link**: [Visit Brandmark](https://brandmark.io)
+
+3. **Logomaster.ai**  
+   - **Description**: AI-powered logo creation tool with customization options.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free basic logo creation.
+   - **Link**: [Visit Logomaster.ai](https://logomaster.ai)
+
+### Productivity and Writing
+1. **Kickresume**  
+   - **Description**: AI-powered resume builder and career development platform.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free basic features.
+   - **Link**: [Visit Kickresume](https://www.kickresume.com)
+
+2. **CVlogin**  
+   - **Description**: AI-assisted resume creation and optimization tool.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free basic features.
+   - **Link**: [Visit CVlogin](https://cvlogin.com)
+
+3. **Switchboard.ai**  
+   - **Description**: AI-powered project management and team collaboration tool.
+   - **Pricing**: Paid (with trial)
+   - **Trial Period**: Free trial available.
+   - **Link**: [Visit Switchboard.ai](https://www.switchboard.ai)
+
+4. **BlogTweet**  
+   - **Description**: AI tool for generating blog posts and social media content.
+   - **Pricing**: Freemium
+   - **Trial Period**: Limited free usage.
+   - **Link**: [Visit BlogTweet](https://blogtweet.ai)
+
+5. **Compose AI**  
+   - **Description**: AI writing assistant that helps users write emails and documents faster.
+   - **Pricing**: Freemium
+   - **Trial Period**: Free basic features.
+   - **Link**: [Visit Compose AI](https://www.compose.ai)
+
+6. **Bearly AI**  
+   - **Description**: AI-powered research assistant and productivity tool.
+   - **Pricing**: Paid (with trial)
+   - **Trial Period**: Free trial available.
+   - **Link**: [Visit Bearly AI](https://bearly.ai)
 
 ### Other AI Tools
 1. **Runway**  
@@ -251,6 +399,12 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Pricing**: Freemium
     - **Trial Period**: Free tier available with limited features.
     - **Link**: [Visit Finchat AI](https://finchat.io)
+
+14. **Araby.ai**  
+    - **Description**: AI-powered platform for Arabic language processing and content generation.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free tier available.
+    - **Link**: [Visit Araby.ai](https://araby.ai)
 
 ---
 
