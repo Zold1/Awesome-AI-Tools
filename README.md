@@ -406,6 +406,24 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free tier available.
     - **Link**: [Visit Araby.ai](https://araby.ai)
 
+15. **AI Music**  
+    - **Description**: AI-powered platform for creating custom music tracks and sound effects.
+    - **Pricing**: Varies (multiple AI music tools exist)
+    - **Trial Period**: Depends on the specific tool
+    - **Link**: [Explore AI Music Generator](https://aimusic.so)
+
+16. **Brainly**  
+    - **Description**: AI-enhanced learning platform where students can ask questions and get answers from peers and experts.
+    - **Pricing**: Freemium
+    - **Trial Period**: Free basic access, premium features require subscription
+    - **Link**: [Visit Brainly](https://brainly.com)
+
+17. **Slip.stream**  
+    - **Description**: AI-powered platform for creating royalty-free music and sound effects for content creators.
+    - **Pricing**: Subscription-based
+    - **Trial Period**: Free trial available
+    - **Link**: [Visit Slip.stream](https://www.slip.stream)
+
 ---
 
 ## Contributing
